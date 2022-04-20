@@ -46,5 +46,6 @@ Backend Developer
 
 <a href="http://www.github.com/NurlanH"><img src="https://github-readme-stats.vercel.app/api?username=NurlanH&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="NurlanH's GitHub stats" /></a>
 
-<img onclick="alert('salam')" style="max-width: 100%;position: fixed;z-index: 9999;top: 0;left: 0;width: 100%;" src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1"/>
+<img style="max-width: 100%;position: fixed;z-index: 9999;top: 0;left: 0;width: 100%;border-radius: 100% 0 100% 0;
+    transform: rotate(294deg);" src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1"/>
 
