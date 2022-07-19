@@ -6,8 +6,6 @@ Backend Developer
 
 * 🌍  I'm based in Azerbaijan, Baku
 * ✉️  You can contact me at [nurlanah@code.edu.az](mailto:nurlanah@code.edu.az)
-* 🚀  I'm currently working on [Baku Creative Projects](http://bcp.az)
-* 🧠  I'm learning Nest js
 
 ### Skills
 
